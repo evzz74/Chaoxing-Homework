@@ -1,5 +1,8 @@
 # Chaoxing-Homework
-//用于超星学习通作业批改赋分的油猴脚本
+用于超星学习通作业批改赋分的油猴脚本
+## 脚本代码
+
+```javascript
 // ==UserScript==
 // @name         学习通教师自动批阅
 // @namespace    http://tampermonkey.net/
@@ -54,3 +57,4 @@
         }
     };
 })();
+```
